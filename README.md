@@ -1,4 +1,3 @@
-# Apple_bobbing
 "Apple_bobbing" is a simple 2D arcade-style game built using Python and Pygame. In this game, a player controls a man standing on the ground who can move left and right to catch falling apples. Each time the man catches an apple, the player gains a point. The objective is to catch as many apples as possible before any apple touches the ground.
 If any apple reaches the ground without being caught, the game ends and the final score is displayed on the screen.
 Gameplay Mechanics:
